@@ -1,0 +1,9 @@
+langchain
+llama-index
+chromadb
+duckduckgo-search
+langgraph
+beautifulsoup4
+fastapi
+uvicorn
+python-dotenv
